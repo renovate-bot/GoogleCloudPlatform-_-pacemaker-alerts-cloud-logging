@@ -1,7 +1,9 @@
 _TLDR_
 This document explains how to automate the process of notifying
 the interested parties upon a cluster event and reporting
-on the events for a period of time.
+on the events for a period of time. See also,
+[What’s happening in your SAP systems?](https://cloud.google.com/blog/products/sap-google-cloud/pacemaker-alerts-in-google-cloud)
+blog.
 
 ## Deploying the Alert Script
 The Pacemaker supports event driven alerting via script execution.
